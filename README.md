@@ -36,7 +36,7 @@ A full-stack system that automates the rewriting, reviewing, and versioning of w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/riffhi/automated-book-workflow.git
+https://github.com/riffhi/Automated-Book-Publication-Workflow.git
 cd automated-book-workflow
 ```
 ### 2.Install Dependencies
